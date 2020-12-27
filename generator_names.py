@@ -14,7 +14,7 @@ first_ridiculous = ('Baby Oil', 'Bad News', 'Big Burps', "Bill 'Beenie-Weenie'",
  "Sid 'The Squirts'", 'Skidmark', 'Slaps', 'Snakes', 'Snoobs',
  'Snorki', 'Soupcan Sam', 'Spitzitout', 'Squids', 'Stinky',
  'Storyboard', 'Sweet Tea', 'TeeTee', 'Wheezy Joe',
- "Winston 'Jazz Hands'", 'Worms', 'Camila', 'Dootie','Dangly','Rain (Doot)', 'Jim','Deliza',"Olivia 'Fartnuckle'", 'Dorcas','Fannie','Ima','Felonee','Hashtag','Hashtag', 'Michael "Tubbins"', 'Michael Patrick','Taffy Lee', 'Bart Harley')
+ "Winston 'Jazz Hands'", 'Worms', 'Camila','Bobby "Off"', 'Dootie','Dangly','Rain (Doot)', 'Jim','Deliza',"Olivia 'Fartnuckle'", 'Dorcas','Fannie','Ima','Felonee','Hashtag','Hashtag', 'Michael "Tubbins"', 'Michael Patrick','Taffy Lee', 'Bart Harley')
 
 last_ridiculous = ('Appleyard', 'Bigmeat', 'Bloominshine', 'Boogerbottom',
  'Breedslovetrout', 'Butterbaugh', 'Clovenhoof', 'Clutterbuck',
